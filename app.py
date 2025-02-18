@@ -14,6 +14,9 @@ from flask import Flask, request, jsonify
 from flask_cors import CORS
 import time
 
+# suppressing warning about parallelism
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
+
 
 # PDF
 def load_resume(file_path):
@@ -255,6 +258,11 @@ print("AI Response:", response)
 app = Flask(__name__)
 
 CORS(app)
+
+
+@app.route("/", methods=["GET"])
+def home():
+    return "Hello, Flask is running!"
 
 
 @app.route("/query", methods=["POST"])
