@@ -1,0 +1,69 @@
+Projects
+
+
+Aifybox | Flask, Tensorﬂow, Python, Javascript, HTML, CSS, HuggingFace
+• Developed [Aifybox Chrome extension] [Demo], integrating a home-brewed LSTM+GRU model to provide AI-driven
+text autocompletion and suggestions in text ﬁelds.
+• Trained and optimized the deep learning model, enabling real-time, space-triggered word prediction with OOV
+(out-of-vocabulary) handling for enhanced user experience. [Model Training Notebook]
+• Deployed the model on Hugging Face Spaces, allowing seamless backend integration via REST APIs for scalable and
+efficient predictions.
+• Implemented intuitive Chrome extension behavior, activating only on user input to ensure non-intrusive,
+contextually accurate text suggestions.
+Development journey well this was my first time building a chrome extension. It was pretty cool. Learnt a lot of new things. But the model side was whole other thing i had to wait for hours to see a model train and then if i found an issue or mistake i had to start all over again . Fun experiance overall and i learnt a lot. First time ever training a dl model.Overall went great.Not satisfied with the results of the final model so hopefully would work on that. Not yet published the extension because not satisfied with the performance but still a great experiance and it has a lot of scope for future still.Overall a great idea and building journey i would say.
+chrome extension github link: https://github.com/shing1Sks/Aifybox-extension
+demo video published on linkedin: https://www.linkedin.com/posts/shreyash-shing1_heloo-everyone-delighted-to-share-updates-activity-7295652941242253312-asoc?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEWU0jEB31EV6EHh-_wkfFfPUD0fddghkDc
+kaggle notebook for model training: https://www.kaggle.com/code/shingdev/word-prediction-uing-gru-and-lstm
+
+Monkey Score | Scikit-learn, ﬂask, Nextjs, Vercel
+• Developed a machine learning software [MonkeyScore] to predict scores and provide personalized analysis based on
+individual traits and characteristics.
+• Leveraged various machine learning models and techniques, including synthetic data generation and self-collected
+data, to ensure accurate predictions.
+• Designed and implemented both the frontend and backend of the application for seamless user interaction and data
+processing.
+Development journey overall fun i encountered a lot of challenges which helped me learn a bunch i mena i dont think you can better idea about ml than tryning to build an ambitious ml project. First issue was no existing dataset so i had to focus on data collection which brings to my second issue awfull success in data collection after trying my best i could collect a measely 40 50 rows of data. But still didnt gave up tried out a bunch of stuff and also explored synthetic data and learnt a lot but the data setion i couldnt do much.I then tried a bunch of models like decision tree based model like random forest , regressors , xg boost and such but i learnt it was not a great choice for my condition therefore went to simple polynomial linear regression still not the best but a lot better.Overall got a lot better idea bout value of each types of models and stuff and a whole other bunch.So much i learnt therefore i compiled my learning into an article : https://www.linkedin.com/posts/shreyash-shing1_%F0%9D%97%9C-%F0%9D%97%B0%F0%9D%97%BC%F0%9D%97%BA%F0%9D%97%BD%F0%9D%97%B6%F0%9D%97%B9%F0%9D%97%B2%F0%9D%97%B1-%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%B9-%F0%9D%97%BA%F0%9D%98%86-%F0%9D%97%B9%F0%9D%97%B2%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4%F0%9D%98%80-activity-7278059760682184704-eQP_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEWU0jEB31EV6EHh-_wkfFfPUD0fddghkDc
+posted on linkedin
+deployed project: https://monkeyscore.vercel.app/
+
+Ky4r - Know Your Roads | Mongodb, Express, Next, Mapbox, TailwindCSS, MERN
+• Developed a community-driven platform [Know-your-roads], to provide accurate road condition data, leveraging
+crowdsourced information to highlight hazards often overlooked by mainstream media.
+• Integrated Mapbox for seamless mapping and a custom implementation of op-db for backend management of map
+markers.
+• Raised public awareness of road conditions and hazards to ensure safer travel for users.
+• Enhanced user experience through data visualization, delivering scalable solutions to improve the quality of life for
+millions.
+Development journey from my linkedin post : https://www.linkedin.com/posts/shreyash-shing1_knowyourroads-communitydriven-roadsafety-activity-7208010873485893632-bCFV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEWU0jEB31EV6EHh-_wkfFfPUD0fddghkDc
+This project is incredibly close to my heart ❤️ and is something special to me. Welcome to Know Your Roads (KYR), a community-driven platform dedicated to spreading awareness about the true conditions of our roads. Our mission is to provide accurate, real-time information about road conditions, ensuring that everyone can travel safely and avoid the hazards that polished news reports often overlook.
+also made a video on youtube about this : https://www.youtube.com/watch?v=XYU-aTJRd-Q
+fun experiance overall
+deployed link : https://ky4r.vercel.app/
+
+Op-db Npm Package | Express, Cloudinary, MongoDB, Nextjs, Nodejs, NPM, TailwindCSS, MERN
+• Developed op-db, an NPM package that streamlines backend and database setup with pre-built schemas and
+controllers to support various project types, such as social media apps, game apps, and user management systems.
+• Provided ready-to-use endpoints and implemented a standard, modular ﬁle structure to facilitate easy customization
+and rapid development.
+• Optimized for simplicity and scalability, allowing developers to install and set up a fully functional backend with a
+single command: npm i op-db.
+• Documented comprehensive usage guidelines and best practices, hosted at [op-db Documentation], for streamlined
+onboarding and user adoption.
+Development journey from my linkedin post : https://www.linkedin.com/posts/shreyash-shing1_projects-backend-fullstack-activity-7204024171759112192-jmtT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEWU0jEB31EV6EHh-_wkfFfPUD0fddghkDc
+I was highly inspired and excited to create my own project after completing the backend series at Chai aur Code by Hitesh sir. I can fully vouch for it as the best course to go for! Not just the backend series, but all the courses by Hitesh sir are top-notch and have been the primary source of my knowledge for most of my tech stack. 🙏
+op-db is a prewritten backend code designed with various use cases in mind, perfect for individual projects! 🎉
+The op-db package streamlines database setup into a few simple steps, creating a versatile server that can be fully customized and, once hosted, serves most of your project needs for all your projects. With its innovative project segregation system, op-db allows you to reuse the same API endpoints across multiple projects, making it an ideal choice for hackathons and small-scale projects.
+deployed link : https://op-db-docs.vercel.app/
+op-db npm -> https://www.npmjs.com/package/op-db
+
+QUIZUP - SKILLUP | Frontend - next,tailwind Backend - mongodb,express,mongoose,node 
+To make learning enjoyable and engaging, QuizUp SkillUp aims to transform the learning and testing process into a fun,
+game-like environment using AI. This application has the potential to instill positive learning habits in millions by making
+the learning experience enjoyable for all ages. By incorporating game-like scores and leaderboard components, QuizUp
+SkillUp strives to make learning as fun and rewarding as possible.
+• Project uses gemini ai api behind the scene and encourages people to enable themself with ai learning.
+• Simplified an uninteresting learning process to a fun positive habit.
+Development journey from my linkedin post : https://www.linkedin.com/posts/shreyash-shing1_webdev-projects-project-activity-7205854541693485056-nZdS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEWU0jEB31EV6EHh-_wkfFfPUD0fddghkDc
+I'm excited to share my latest project: Quizup-Skillup! An AI-powered trivia-based quiz app designed to help you explore and enhance your knowledge on various topics through a fun and interactive game like experiance. 🎮✨
+With Quizup-Skillup, you can dive into new and unknown topics, guided by AI, making learning both fun and engaging. A few minutes of play can lead to hours of knowledge! ☀📚
+Also in the post is a demo video : https://www.linkedin.com/posts/shreyash-shing1_webdev-projects-project-activity-7205854541693485056-nZdS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEWU0jEB31EV6EHh-_wkfFfPUD0fddghkDc

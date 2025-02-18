@@ -1,0 +1,10 @@
+pymupdf 
+sentence-transformers 
+faiss-cpu 
+langchain_groq
+flask
+langsmith
+python-dotenv
+langchain_core
+flask-cors
+gunicorn

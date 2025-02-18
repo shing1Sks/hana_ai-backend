@@ -1,0 +1,81 @@
+About
+I am a web and AI/ML/GenAI developer passionate about creating impactful solutions through technology. With
+experience building a variety of meaningful projects using modern tech stacks, I strive to turn ideas into functional,
+user-focused products. I also enjoy sharing knowledge by writing articles, blending technical expertise with creativity to
+inspire and inform others. I have been part of a lot of socities for learnig oppurtunities. I have also partcipated in two hackathons.
+
+Education
+Kalinga Institute of Industrial Technology (KIIT)
+Expected May 2027
+
+Technical Skills
+Languages: Javascript, Java, C, Python, HTML, CSS
+Technologies: React.js, Next.js, Express, Node.js, Tailwind CSS, Pandas, NumPy, Langchain, Tensorﬂow, Scikit-learn, Git,
+VsCode, Jupyter Notebook ,Kaggle ,Keras
+Concepts: Machine Learning, Deep Learning, Artiﬁcial Intelligence ,Generative AI, Natural Language Processing (NLP) ,
+Recurrent Neural Network (RNN), Convolutional Neural Network (CNN), Transformers
+
+Articles i published : 
+1 - How Linear Regression Shapes Everyday Decoding Patterns 
+link : https://medium.com/@fedkiit/how-linear-regression-shapes-everyday-decoding-patterns-705690bdec14
+context : i wrote this before while learning ml to make myself more confident and a fun side project.It was when my society asked someone to volunteer and i see this as a good oppurtunity.
+This article is like a basic intro to ml with some non tech referencea and then a simple project.
+2 -  Lessons Learned from a 9% Successful Project 👾
+link : https://www.linkedin.com/pulse/lessons-learned-from-9-successful-project-shreyash-kumar-singh-tqg9c/?trackingId=TxAN1Hk4f%2F2KaYfHr9Wxlw%3D%3D
+Basically the learnings all compiled from my monkey score project. I learnt a lot so basically compiled it into an article
+
+Hackathons i have been a part of :
+1 - Codecubicles @ 15-05-2024 hackathon!
+post about it on linkedin : https://www.linkedin.com/posts/shreyash-shing1_codecubicles-hackathon-financialguidance-activity-7196843933916631040-Hk16?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEWU0jEB31EV6EHh-_wkfFfPUD0fddghkDc
+post contents : 
+🚀 Just wrapped up an amazing experience at the Codecubicles @ 15-05-2024 hackathon! 🙌 It was my first online hackathon, and I can't emphasize enough how much I learned about collaboration and communication and presentation. These skills will be incredibly valuable in my future projects.
+Our team which included myself, Vaibhav Deep Srivastava and Saujanya worked on a Financial Guidance app, aiming to empower individuals with financial skills using AI-based analysis and visual analytics. We also offered access to professional financial advisors to cover what AI couldn't. Although we didn't make it to the final round, the journey was truly enriching.
+One of my key takeaways was the importance of time management. Despite not creating a working demo, I believe the experience was totally worth it. Looking forward to applying these learnings in future endeavors! ✨💼 hashtag#Codecubicles hashtag#Hackathon hashtag#FinancialGuidance hashtag#AI hashtag#LearningExperience hashtag#TimeManagement
+2 - KODESPHERE🎉 hackathon
+post link : https://www.linkedin.com/posts/shreyash-shing1_2-phase-total-6-hours-one-problem-statement-activity-7175192137792204800-W4AF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEWU0jEB31EV6EHh-_wkfFfPUD0fddghkDc
+post contents : 
+2 phase ,total 6 hours ,One problem statement
+That's how the KODESPHERE🎉 hackathon session was .Truly a redefyning moment in my development journey.From figuring and configuring git to work with team to learning new concepts on the go to solve the problem statement and finally deploying our site which solved the problem it was indeed a great learning experiance.
+In the event we were asked to create a site for Smart Home type app which could be used to control led ac and etc via phone.
+We successfully completed the task in the timeframe and now are waiting for the results!!
+The site-https://lnkd.in/gCXwcGta
+Our team Vaibhav Deep Srivastava SADIQ IRFAN ALAM Shreyash Kumar Singh 
+Thanks to Konnexions-KIIT for the beautiful event !! 🤩🥳
+
+some certfications include :
+coursera certificates:
+1 - link : https://www.coursera.org/account/accomplishments/verify/CXPAKGV4GA3S
+ntroduction to Generative AI
+2 - link : https://www.coursera.org/account/accomplishments/verify/PVCK7QTGM22U
+Introduction to Vertex AI Studio
+udemy certificate
+This certificate above verifies that Shreyash kumar singh successfully completed the course Complete Data Science,Machine Learning,DL,NLP Bootcamp on 01/31/2025 as taught by Krish Naik, KRISHAI Technologies Private Limited on Udemy. The certificate indicates the entire course was completed as validated by the student. The course duration represents the total video hours of the course at time of most recent completion.
+link : https://www.udemy.com/certificate/UC-50da9a51-e2d6-4ce5-bb15-f8547c84133d/
+kaggle certifications
+1 - link : https://www.kaggle.com/learn/certification/shingdev/intro-to-machine-learning 
+completed Intro to Machine Learning.
+2 - link : https://www.kaggle.com/learn/certification/shingdev/pandas
+completed Pandas
+
+technical societies i am part of are or were part of 
+FED KIIT 
+Technical Team Member
+Technical Team Member
+FED KIIT · Full-timeFED KIIT · Full-time
+Nov 2024 - Present · 4 mosNov 2024 to Present · 4 mos
+Bhubaneswar, Odisha, India · On-siteBhubaneswar, Odisha, India · On-site
+Web Development
+E Labs 
+Web Developer
+Web Developer
+E Labs · Full-timeE Labs · Full-time
+Jan 2024 - Present · 1 yr 2 mosJan 2024 to Present · 1 yr 2 mos
+Odisha, IndiaOdisha, India
+Web Development
+Konnexions-KIIT 
+Web Developer
+Web Developer
+Konnexions · Full-timeKonnexions · Full-time
+Feb 2024 - Nov 2024 · 10 mosFeb 2024 to Nov 2024 · 10 mos
+Odisha, IndiaOdisha, India
+Web Development
