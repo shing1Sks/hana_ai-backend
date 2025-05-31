@@ -83,7 +83,9 @@ def search_similar_documents(query, max_tokens=700):
 load_dotenv()
 langsmith_client = Client()
 
-groq_llm = ChatGroq(api_key=os.getenv("GROQ_API_KEY"), model_name="llama3-70b-8192")
+groq_llm = ChatGroq(
+    api_key=os.getenv("GROQ_API_KEY"), model_name="llama-3.3-70b-versatile"
+)
 
 
 def query_groq_with_context(question):
